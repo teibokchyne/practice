@@ -1,0 +1,22 @@
+A.This project was to implement features of usual shopping website  with both user and admin side features.
+features of website.
+1.User side: A easy to use user friendly interface with following features.
+a.user Registration
+b.user login(secure)
+c.Category selection
+d.Add to cart and place the order
+2.Admin side:A Admin Interface with following features.
+a.Admin access
+b.Admin panel
+c.Dashboard
+c.Admin can upload product images and details on website
+d.Receiving order 
+e.Deleting products.
+f.Secure Database connectivity
+B.Ludo Game
+It is a  java based Ludo game software with following features.
+a.Dice Rolling,
+b.toking moving
+c.Basic animation
+d.Background sound with events.
+
